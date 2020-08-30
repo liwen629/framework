@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.my.demo.test.Test3
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.001 s <<< FAILURE! - in com.my.demo.test.Test3
+com.my.demo.test.Test3.test1  Time elapsed: 1.001 s  <<< FAILURE!
+java.lang.AssertionError: expected:<1> but was:<2>
+	at com.my.demo.test.Test3.test1(Test3.java:39)
+
